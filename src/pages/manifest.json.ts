@@ -44,8 +44,8 @@ export const GET: APIRoute = async () => {
   );
 
   const manifest = {
-    short_name: "ScrewFast",
-    name: "ScrewFast",
+    short_name: "Elgon Team",
+    name: "Elgon Team",
     icons,
     display: "minimal-ui",
     id: "/",
